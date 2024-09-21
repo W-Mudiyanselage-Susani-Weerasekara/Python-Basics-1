@@ -1,4 +1,4 @@
-# Python-Basics1
+# Basic-concepts-in-Python-1
 ## For learning
 ### Here you will learn;
 * How to make variables
