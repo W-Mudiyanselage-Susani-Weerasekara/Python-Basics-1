@@ -1,4 +1,4 @@
-# Python-Part-1--Exercise-2
+# Python-Basics1
 ## For learning
 ### Here you will learn;
 * How to make variables
